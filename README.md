@@ -49,6 +49,3 @@ This project implements real-time face detection and emotion recognition using `
 - Add support for face recognition (identifying specific individuals).
 - Implement an option to take snapshots of the video feed with detected faces.
 - Enhance emotion detection accuracy with more advanced models.
-
-## License
-This project is licensed under the MIT License.
