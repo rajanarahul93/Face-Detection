@@ -17,10 +17,10 @@ This project implements real-time face detection and emotion recognition using `
 ## How to Run the Project
 
 1. **Download/Clone the Repository**:
-   ``
+   ```
    git clone https://github.com/rajanarahul93 /Face-Detection.git
    cd Face-Detection-project
-   ``
+   ```
 
 2. **Download the Pretrained Models**:
    - Download the necessary models for face detection and emotion recognition from the [official face-api.js GitHub](https://github.com/justadudewhohacks/face-api.js) repository.
